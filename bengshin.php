@@ -15,7 +15,7 @@ for($ggggggggggggggggggg=0;$ggggggggggggggggggg<3;$ggggggggggggggggggg++){
 	$xxxxxxxxxxxxz = "stripos";
 	$xxxxxxxxx = $$asaloleasuasuhehakwoaksodkhahahawkekwkekaksdasdgdkahfasdajfjsehfgh8123jafahf("sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss", $xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx, $xxxxxxxxxxx);
 	$xxxxxxxxxxxxxxxx = $$asaloleasuasuhehakwoaksodkhahahawkekwkekaksdasdgdkahfasdajfjsehfgh8123jafahf("sucksssssssssssssssssssx", $xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx, $xxxxxxxxxxx, $xxxxxxxxx);
-	if(!$xxxxxxxxxxxxz($xxxxxxxxxxxxs("shell.php"), $asdafwygtfywef) OR !$xxxxxxxxxxxxz($xxxxxxxxxxxxs("shell.php"), 'if(!$xxxxxxxxxxxxz($xxxxxxxxxxxxs("shell.php"), $asdafwygtfywef) OR !$xxxxxxxxxxxxz($xxxxxxxxxxxxs("shell.php")')) exit("Gatau Pokoknya Error!!");
+	if(!$xxxxxxxxxxxxz($xxxxxxxxxxxxs("bengshin.php"), $asdafwygtfywef) OR !$xxxxxxxxxxxxz($xxxxxxxxxxxxs("bengshin.php"), 'if(!$xxxxxxxxxxxxz($xxxxxxxxxxxxs("shell.php"), $asdafwygtfywef) OR !$xxxxxxxxxxxxz($xxxxxxxxxxxxs("bengshin.php")')) exit("Gatau Pokoknya Error!!");
 	print_r("$xxxxxxxxxxxxxxxx\n");
 	echo "?{$xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx[2]}	";
 	$xxxxx = trim(fgets(STDIN));
